@@ -1,0 +1,66 @@
+{
+  "ramble_on": {
+    "sounds": [
+      {
+        "name": "music:ramble_on",
+        "stream": true
+      }
+    ]
+  },
+  "real_gone": {
+    "sounds": [
+      {
+        "name": "music:real_gone",
+        "stream": true
+      }
+    ]
+  },
+  "owner_of_a_lonely_heart": {
+    "sounds": [
+      {
+        "name": "music:owner_of_a_lonely_heart",
+        "stream": true
+      }
+    ]
+  },
+  "ovni": {
+    "sounds": [
+      {
+        "name": "music:ovni",
+        "stream": true
+      }
+    ]
+  },
+  "about_love": {
+    "sounds": [
+      {
+        "name": "music:about_love",
+        "stream": true
+      }
+    ]
+  },
+  "rick_roll": {
+    "sounds": [
+      {
+        "name": "music:rick_roll",
+        "stream": true
+      }
+    ]
+  },
+  "voodoo_child": {
+    "sounds": [
+      {
+        "name": "music:voodoo_child",
+        "stream": true
+      }
+    ]
+  },
+  "liuying": {
+    "sounds": [
+      {
+        "name": "music:liuying",
+        "stream": true
+      }
+    ]
+  }
+}
